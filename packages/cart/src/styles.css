@@ -1,0 +1,7 @@
+:host {
+  --background: var(--instacart-brand-color);
+}
+
+.widget-root {
+  background-color: var(--background);
+}
